@@ -1,0 +1,4 @@
+baseURL = 'https://elijahtate.info'
+languageCode = 'en-us'
+title = "Elijah Tate's Blog"
+theme = "paper"
