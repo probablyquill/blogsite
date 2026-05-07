@@ -1,4 +1,7 @@
-baseURL = 'https://elijahtate.info'
+baseURL = 'http://elijahtate.info'
 languageCode = 'en-us'
 title = "Elijah Tate's Blog"
 theme = "paper"
+
+[params]
+monoDarkIcon = true

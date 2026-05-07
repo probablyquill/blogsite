@@ -3,6 +3,7 @@ date = '2026-05-05'
 draft = true
 title = '"The Picture of Dorian Gray" by Oscar Wilde'
 tags = ["Book"]
+rating = 3.5
 +++
 This is one of several books I've slowly been making my way through this year. This one in particular was a slog for the first few chapters, but after the first quarter was finished, things picked up and I read until the end that same day. As a story, I thought it was alright. There are certainly interestingly explored ideas and elements, but it’s so painfully slow to start that I doubt I would ever make it through a book like this if it weren’t for its legacy. I want to emphasise that I mostly enjoyed the latter three-fourths of the novel, but my overall opinion is heavily colored by how little enjoyment I found at the start of the story. The opening’s inanity could be spun into a deconstruction of the mundanity of life that leaves Dorian so obsessed with Lord Henry — I can think of several ways to justify such a reading — but at the end of the day the fact is that it was unpleasant to read for uninteresting reasons. On the thought of deeper meaning in incredibly boring passages: chapter eleven is simultaneously incredibly important to the book and the most mind-numbing collection of text I’ve read outside of a textbook. I understand what Wilde is doing but I feel as if there has to be a less headache-inducing way of emphasising Dorian’s obsession with beauty and descent into materialism. 
 
