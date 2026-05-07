@@ -5,3 +5,8 @@ theme = "paper"
 
 [params]
 monoDarkIcon = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,14 @@
++++
+date = '2025-12-02'
+draft = false
+title = '"Mortal Engines" by Philip Reeve'
+tags = ["Book"]
+rating = 1
++++
+There were a lot of things in this book that bothered or didn’t work for me, the most grating of which was the way the prose is written. The way in which things are described and told was deeply frustrating and it’s a bit difficult for me to pin down why. To call the narration unsubtle would be to do it a disservice; I’d almost go as far as to say there’s absolutely nothing to infer. I think the book would have benefited from being longer, giving more space for the narration and more pages for the story to unfold. As it stands chapters are too short, which when combined with the constant changing of point-of-view character on chapter or scene changes left the entire book feeling stilted. The changes between present and past tense narration — past tense for Tom, present for the characters who are still in London — is a narrative decision that fell entirely flat. If the goal was to distinctly separate the characters in London and Tom, it works, but it’s at the cost of being annoying and jarring.
+
+Jumping back to the idea of the book needing to be longer: by the end of the book it feels like we’ve seen next to none of London. The inciting incident results in Tom falling off of London by the end of chapter two (twenty-two pages in my paperback edition, <i>maybe</i> 6,500 words). From there it feels like event after event at a rapid-fire pace that you speed through and only get to learn about the world at a (pun intended) surface level. 
+
+It’s disappointing because this book’s concept was quite interesting — despite my now being firmly outside of the intended demographic — in terms of the premise behind the world and lead characters. The ideas are really solid, they just feel underexplored. And what is explored is done heavy-handedly. There are so many instances of a character saying exactly what they are thinking, or feeling, or what their worldview is. There are so many instances of the narration explicitly telling what a character is thinking or feeling — not only explicitly, but in maddeningly simple terms. I have a bunch of random notes from when I was reading that I could try and fit into this review, but this book isn’t even fun to think about. 
+
+I first heard about this book when the trailers for the movie were coming out around a decade or so ago. I didn’t read it then, but I picked it up last month when I saw it for a few dollars at my local bookstore. I don’t think I would have enjoyed this book a decade ago, when I was in the target age range (and reading “Ender’s Game” instead). I did not enjoy this book today. The premise and blurb made me optimistic and the book did not deliver. There are a million other books I would rather give a thirteen year old than this.
