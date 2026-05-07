@@ -2,7 +2,7 @@
 date = '2025-03-24'
 draft = false
 title = '"All Quiet on the Western Front" by  Erich Maria Remarque'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 5
 +++
 When writing a story about war, there is always the chance of accidentally glorifying some aspect of it. Even the grittiest war movies have cool explosions, after all. In this sense I think that a book is the perfect medium for a story like this. There is no chance of accidentally undermining the harrowing experiences that Paul goes through.

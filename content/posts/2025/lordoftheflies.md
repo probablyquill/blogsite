@@ -2,7 +2,7 @@
 date = '2025-03-08'
 draft = false
 title = '"Lord of the Flies" by  William Golding'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 3
 +++
 It's hard to judge a book written so long ago fairly, because it may as well have been written in a different world. There are a lot of things that work against this book. The style of the narration made it difficult for me to be invested in the story and characters. The rapid-fire rate at which characters were introduced made it difficult to track who was who, ultimately boiling down to there only being about four characters that actually did anything which mattered. It made it difficult to feel any sense of investment in the boys and their fate, and left me feeling disconnected; I was a disinterested spectator watching from the sidelines. That is not inherently a bad thing, however this combined with the other factors listed prior hurt my enjoyment of the book. 

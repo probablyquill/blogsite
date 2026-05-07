@@ -2,6 +2,7 @@
 date = '2026-09-03'
 draft = false
 title = '"House of the Scorpion" by Nancy Farmer'
+tags = ["Book", "Review"]
 rating = 2
 +++
 I found this book to be pretty disappointing, which is impressive because I didn’t go into the book with any expectations. I could see myself having really liked this book if I had read it a decade prior, but as it stands I ended up having so many little issues that it was difficult for me to enjoy and impossible for me to recommend. My complaints are very directly tied into the characters and plot, so it’s impossible for me to really discuss anything without delving into spoiler territory. The broad gist is: I felt like the book underused its pretense and did not adequately or meaningfully explore the implications of Matt being a clone. The characters were flat and uninteresting across the board, and the plot fell into a disjointed mess somewhere around the last third to quarter of the book. 
