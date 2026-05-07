@@ -8,7 +8,7 @@
 {{- end -}}
 
 <!-- $pages -->
-{{- $pages := union .RegularPages .Sections -}}<!---->
+{{- $pages := union .RegularPagesRecursive .Sections -}}<!---->
 {{- if .IsHome -}}<!---->
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections -}}<!---->
 {{- end -}}
