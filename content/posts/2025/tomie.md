@@ -2,7 +2,7 @@
 date = '2025-02-01'
 draft = false
 title = '"Tomie" by Junji Ito'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 3
 +++
 One issue I've had with Junji Ito's work is that none of the other longer-form collections have resonated with me in quite the same ways as Uzamaki did. Were I not to have read Uzamaki, I'd perhaps allot another star to this work, but as it stands its hard for me to not compare anything I read to it. 

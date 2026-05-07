@@ -2,7 +2,7 @@
 date = '2025-11-26'
 draft = false
 title = '"The Time of Contempt" by Andrzej Sapkowski'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 1
 +++
 I understand that the whole point is that they’re entering the “Time of Contempt” (insert title screen) but it was a little heavy handed having more than one character go “we are truly entering a time of contempt” twice a chapter. That said I didn’t actually track how many times it was said so my brain may have caught on to it as being more present than it actually was. 

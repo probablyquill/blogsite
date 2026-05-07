@@ -2,7 +2,7 @@
 date = '2026-02-19'
 draft = false
 title = '"Frankenstein" by Mary Shelly'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 4
 +++
 As an aside from the review, this year has had a rough start for me reading-wise. I’ve read bits and pieces of books, but it took me until now to actually finish one. I’m happy to say I’ve started with a good one.

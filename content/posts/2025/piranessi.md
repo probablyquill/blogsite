@@ -2,7 +2,7 @@
 date = '2025-06-17'
 draft = false
 title = '"Piranesi" by Suzanna Clarke'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 5
 +++
 Personally I have a bit of difficulty getting in to books written in the first person. I've never nailed down exactly what it is about it that I find abrasive, but has always caused me to hesitate. 

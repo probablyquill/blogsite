@@ -2,7 +2,7 @@
 date = '2026-04-20'
 draft = false
 title = '"Baptism of Fire" by Andrzej Sapkowski'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 3
 +++
 I’m a bit concerned about my ability to be fair to this book. On one hand, this is probably my least favorite in the series so far. On the other: I’d be malignant to ignore that I’ve struggled to find the energy to read this year, and it’s resulted in this book being split across multiple months. It’s an inevitability that the story would lull after *The Time of Contempt* — especially with the former having such an explosive ending — and a large chunk of my frustration comes from how the narrative focus is split. Conceptually I understand that storytelling dictates a falling action after the climactic events of the previous novel, but *The Time of Contempt* really left me wanting to follow Ciri’s story. *Baptism of Fire* leaves her on the wayside for the majority of the book; off the top of my head, Ciri has three scenes. Broadly speaking I think this is a difficult issue for a book or series which splits across multiple perspectives to cover: it’s impossible to always be following the perspective which the reader is most invested in. This is the only part in the series where I’ve found it grating, but it’s a frustrating low in a series that I’ve otherwise enjoyed.

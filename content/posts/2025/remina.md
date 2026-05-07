@@ -2,7 +2,7 @@
 date = '2025-07-13'
 draft = false
 title = '"Remina" by Junji Ito'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 4
 +++
 There's a twisted sense of humor in a lot of Junji Ito's work that really shines in Remina. It's an equally excellent and absurd exploration of cosmic horror. Perhaps the human mind's only defense against the unknowable, unbeatable, grotesque calamity is insanity. As unnerving and ominous as the artwork is, there's something inherently morbidly funny about a cloud of people flying around a rapidly spinning earth. The beautifully, horrifically illustrated full page spreads that Junji Ito uses to punctuate his work are on full display in their awful grandeur.

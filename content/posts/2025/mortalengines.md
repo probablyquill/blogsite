@@ -2,7 +2,7 @@
 date = '2025-12-02'
 draft = false
 title = '"Mortal Engines" by Philip Reeve'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 1
 +++
 There were a lot of things in this book that bothered or didn’t work for me, the most grating of which was the way the prose is written. The way in which things are described and told was deeply frustrating and it’s a bit difficult for me to pin down why. To call the narration unsubtle would be to do it a disservice; I’d almost go as far as to say there’s absolutely nothing to infer. I think the book would have benefited from being longer, giving more space for the narration and more pages for the story to unfold. As it stands chapters are too short, which when combined with the constant changing of point-of-view character on chapter or scene changes left the entire book feeling stilted. The changes between present and past tense narration — past tense for Tom, present for the characters who are still in London — is a narrative decision that fell entirely flat. If the goal was to distinctly separate the characters in London and Tom, it works, but it’s at the cost of being annoying and jarring.

@@ -2,7 +2,7 @@
 date = '2025-02-01'
 draft = false
 title = '"The Rest of the Robots" by Isaac Asimov'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 3
 +++
 It is important to start by noting that I read the paperback version which includes only the eight short stories. There were some short stories in this book which I thoroughly enjoyed, however I finished it feeling a bit betrayed by the blurb on the back. Or, put more succinctly, I felt promised— and hoped to see— more of Dr. Suzan Calvin than I did in the collection. Perhaps unsurprisingly, then, the latter half or so of the book that contained the short stories featuring her was my favorite portion. 

@@ -2,7 +2,7 @@
 date = '2025-05-03'
 draft = false
 title = '"The Last Unicorn" by  Peter S. Beagle'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 5
 +++
 There's a profound melancholy that undercuts this story from start to finish; it was emotionally raw in a way I wasn’t ready for. It lacks immediate rigid world-building and clearly defined rules, and instead paints the silhouette of a world that is worse off for the fantastical elements which it has lost. The fantastic replaced with petty illusions, parlor tricks, or simply rendered unseeable by the eroding passage of time. 

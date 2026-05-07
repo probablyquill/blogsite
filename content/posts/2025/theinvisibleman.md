@@ -2,7 +2,7 @@
 date = '2025-02-01'
 draft = false
 title = '"The Invisible Man" by H.G. Wells'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 2
 +++
 I really wanted to enjoy this book; it fought against me on every page. What's most frustrating is that the majority of my complaints are structural: if this same story was presented in a different way, I have no doubt I would have loved it. This was painfully highlighted by the ending segment of the book, as it was much more engaging and enjoyable than the rest of the story. 

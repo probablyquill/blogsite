@@ -2,7 +2,7 @@
 date = '2025-03-06'
 draft = false
 title = '"Norse Mythology" by  Neil Gaiman'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 4
 +++
 As a modern retelling of Norse mythos, I think the book does its job quite well. I can't speak to the accuracy of the adaptation, but based on the Notes at the end of the book it appears to be well researched. Norse mythology has always existed in a bit of a blind spot for me; I grew up familiar with Greek and Roman mythos, however for a very long time my only exposure to Norse Mythology was through Marvel's rendition of the characters. 

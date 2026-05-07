@@ -2,7 +2,7 @@
 date = '2025-07-18'
 draft = false
 title = '"Scythe" by Neil Shusterman'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 4
 +++
 I'd consider myself a casual fan of the dystopia genre, having read and enjoyed books like The Giver, The Hunger Games, and The Roar. When I came across the book at the book store its premise— as well as a nagging notion that I'd heard of the series before— immediately piqued my interest. 

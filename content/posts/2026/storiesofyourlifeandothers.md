@@ -2,7 +2,7 @@
 date = '2026-05-03'
 draft = false
 title = '"Stories of Your Life and Others" by Ted Chiang'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 5
 +++
 There’s a single, consistent, through-line that binds this short story collection together: Chiang’s exploration of some fundamental aspect of our reality being altered or broken. “Story of Your Life”, the titular title of the collection, is about the perception of time. “Understand” presents a man whose intelligence has so dramatically increased that his perception of reality is incomprehensible to a normal man. “Division by Zero” has a character’s sense of purpose annihilated by the realization of a theorem that mathematically proves numbers as being arbitrary. “Liking What You See: A Documentary" investigates a world in which individuals have the ability to disable their perception of beauty.

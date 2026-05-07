@@ -2,7 +2,7 @@
 date = '2025-11-16'
 draft = false
 title = '"The Great Gatsby" by F. Scott Fitzgerald'
-tags = ["Book"]
+tags = ["Book", "Review"]
 +++
 I’m somewhat ashamed to say that I’m not really sure what I was supposed to get out of this book. There are certainly a plethora of bits and pieces that stood out: Gatsby’s ongoing loneliness and status as an outsider despite his wealth and parties, nearly every character being terrible people in some way, or the narrator’s conclusion that some deficiency doomed their time in the East from the start. It’s a very human story, I suppose, to have these people languishing in unimaginable wealth and hedonism while simultaneously failing to process their own emotions and desires. 
 
