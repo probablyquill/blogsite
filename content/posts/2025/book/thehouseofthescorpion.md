@@ -1,5 +1,5 @@
 +++
-date = '2026-09-03'
+date = '2025-09-03'
 draft = false
 title = '"House of the Scorpion" by Nancy Farmer'
 tags = ["Book", "Review"]

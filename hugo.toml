@@ -1,14 +1,37 @@
-baseURL = 'http://elijahtate.info'
+baseURL = 'http://blog.probablyquill.com'
 languageCode = 'en-us'
 title = "blog"
 theme = "paper"
-copyright = "©2026, Elijah Tate"
-color = "gray"
+copyright = "©2026 probablyquill"
 
 [params]
-monoDarkIcon = true
+  monoDarkIcon = true
+  github = 'probablyquill'
+  goodreads = 'probablyelijah'
+
+  avatar = 'probablyquill@gmail.com'
+  name = 'Quill'
+  bio = 'Trying to think just a little bit more about media.'
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 11
+  [[menu.main]]
+    identifier = "2026"
+    name = "2026"
+    url = "/posts/2026"
+    weight = 9
+  [[menu.main]]
+    identifier = "2025"
+    name = "2025"
+    url = "/posts/2025"
+    weight = 10

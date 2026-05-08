@@ -1,0 +1,12 @@
++++
+date = '2025-08-10'
+draft = false
+title = '"Tress of the Emerald Sea" by Brandon Sanderson'
+tags = ["Book", "Review"]
+rating = 4
++++
+If you're familiar with some of Sanderson's other works, this book is stylistically a large departure from what you are used to. I have read (and thoroughly enjoyed) both Mistborn and much of the Stormlight Archive, and so I was expecting something within that same lane in terms of tone and narrative style. 
+
+Though a departure from expectations, I thoroughly enjoyed "Tress of the Emerald Sea." It's an excellent standalone that doesn't hinge on any previous knowledge of the Cosmere, and presents a interesting world and explores a unique and detailed magic system as Sanderson is known to do. I didn't love Hoid as a narrator; while I greatly enjoyed the story being told and the characters in it, the narration style leaned into "grating" a lot more often than I think it intended to. It's very clear that Sanderson took inspiration from the way that Prachett writes—checking afterward he directly states as much in the Afterword—and while it's a unique style for him, it took a lot of getting used to. It's tantalizingly close to nailing the style that Sanderson wanted, but it's just barely not quite there. (This is the least objective opinion ever held so your mileage may vary.) Hoid's interjections did grow on me over the course of the story, but I'd be lying if I said my final sentiment was anything better than neutral.
+
+A couple of complaints aside, it's hard for me to properly express how much I enjoyed the story and characters. It's very much a YA coming of age story while also pulling heavily from the fantasy elements that Sanderson is known for. Tress was an endearing protagonist and <spoiler>I thought the twist at the end of the book was fantastic.</spoiler> I came out of it wanting to read more, to know more, to see more of the world and characters. Much of the world is unexplored as the characters only sail into three of the seas, nor does Tress enter any city or town barring the one she left early in the story. I don't know that the story lends itself to a follow up or sequel, but it would make me incredibly happy to see this world and characters touched on again.

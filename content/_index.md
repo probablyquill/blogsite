@@ -1,12 +1,10 @@
 +++
 draft = false
 layout = "single"
-title = "just another blog"
+title = "i can't believe they've done this"
 +++
 <div style="display: grid; justify-content: center; text-align: center;">
 
-[All Posts](/posts)
-
-[2025](/posts/2025/)   |   [2026](/posts/2026/)
+[2026](/posts/2026/)   |   [2025](/posts/2025/)   |   [All Posts](/posts)
 
 </div>

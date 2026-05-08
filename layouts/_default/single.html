@@ -28,7 +28,7 @@
 
   {{- if .IsHome -}}
   <div style="display: grid; justify-content: center;">
-    <p style="text-align: left; margin-bottom: 0;">Recent Posts:</p>
+    <p style="text-align: left; margin-bottom: 0;">Newest Posts:</p>
     <ul style="margin-top: 0;">
     {{ range first 5 (sort site.RegularPages "Date" "desc") }}
       <li><a href="{{ .RelPermalink }}">

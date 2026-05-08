@@ -2,7 +2,7 @@
 date = '2025-03-03'
 draft = false
 title = '"Blood of Elves" by  Andrzej Sapkowski'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 4
 +++
 I really, really enjoyed this book— but it's impossible to recommend on its own. I was incorrectly drawn in to this as a starting point for the Witcher series, having not done my research, and it was very quickly clear to me past the opening chapter that this was intended for people intimately familiar with the short story collection. 

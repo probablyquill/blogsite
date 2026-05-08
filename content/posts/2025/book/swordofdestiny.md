@@ -1,0 +1,14 @@
++++
+date = '2025-08-26'
+draft = false
+title = '"Sword of Destiny" by Andrzej Sapkowski'
+tags = ["Book", "Review"]
+rating = 5
++++
+This is easily my favorite of the Witcher books that I've read so far (the only others at time of writing being "Blood of Elves" and "The Last Wish"). It doesn't follow the same format as "The Last Wish"—which is a bit of a shame, as I did really like the way that book was structured—instead being exactly what it is advertised as: a collection of disconnected short stories. 
+
+The world that Sapkowski is putting together really shines in this collection, enhanced by the longer average length of the stories compared to "The Last Wish." The only thing that irks me is how much seems to have happened before the previous short story The Last Wish and the start of The Bounds of Reason. A lot is implied (or stated) to have happened between Geralt and Yennefer, and while we get the gist of what happened pretty quickly, the opening stories are rather spare on details. That's not to say that it should have been worked into the existing narratives in some way—the additions being made probably would have been jarring and made the surrounding story worse—but rather to say that I would have liked a short story better explaining what had happened instead of jumping and staying so far ahead of where the final story in "The Last Wish" left off. 
+
+There was also the occasional eye roll at the gratuitous nudity and or sex, which only has around a fifty percent chance to actually contribute to the story and world. I wouldn't consider myself prudish by any means; if it's something I'm noticing, then that means it's something present enough to pull someone more averse out of the story entirely. It's a criticism I'm hesitant to levy without simultaneously contradicting it it; sex and fertility is very important to Yennefer and her character (both in the sense of her infertility as a sorceress and in how its one of the few ways she is able to connect with others). On the other hand, I'm of the opinion that the description of a mermaids breasts and nipples didn't actually add anything valuable to the book. 
+
+Despite all the grumbling, I really liked "Sword of Destiny" and it left me quite excited to continue the saga. I'm tempted to re-read "Blood of Elves" even though I already read it earlier this year. The two short story collections really hammer in how important the idea of destiny is to the series. A lot has been set up, and I have high expectations for the payoff. I think that this is the first short story collection I've ever read where I really liked every single story, even if I can think of other short stories that I individually liked better.

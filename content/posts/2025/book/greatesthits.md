@@ -2,7 +2,7 @@
 date = '2025-01-01'
 draft = false
 title = '"Greatest Hits" by Harlan Ellison'
-tags = ["Book"]
+tags = ["Book", "Review"]
 rating = 4
 +++
 If measured by the short stories I enjoyed the most, this is the best book I've ever read. If measured by the stories I barely managed to stumble through, then it would be one of my least favorite pieces of media. It's with that in mind that I'd wholeheartedly recommend this book, because the stories that I enjoyed were good enough that I still appreciated the stories which I did not. 
