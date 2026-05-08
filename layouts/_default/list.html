@@ -8,7 +8,7 @@
 {{- end -}}
 
 <!-- $pages -->
-{{- $pages := union .RegularPagesRecursive .Sections -}}<!---->
+{{- $pages := .RegularPagesRecursive -}}<!---->
 {{- if .IsHome -}}<!---->
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections -}}<!---->
 {{- end -}}
@@ -49,7 +49,6 @@ $paginator.Pages -}}<!---->
 {{- end -}}<!---->
 
 {{- end -}}
-
 <section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
   {{- if gt .Weight 0 -}}
   <span class="mb-1 inline-block text-xs tracking-wider text-orange-500"
@@ -57,18 +56,26 @@ $paginator.Pages -}}<!---->
   >
   {{- end -}}
   <h2 class="my-0!">{{- .Title -}}</h2>
-  <div class="flex" style="flex-direction: row;">
-    <p class="text-xs antialiased opacity-60">
-      {{- if .Params.rating -}}
-      Rating: <span class="Stars" style="--rating: {{.Params.rating}};" aria-label="Rating of this product is {{ .Params.rating }} out of 5."></span>
-      {{- else -}}
-      Rating: None 
+
+  {{- $review := false -}}
+  {{- with .Params.tags -}}
+    {{- if in . "Review" -}}
+    {{- $review = true -}}
+    {{- end -}}
+  {{- end -}}
+
+    <div class="flex" style="flex-direction: row;">
+      {{- if $review -}}
+      <p class="text-xs antialiased opacity-60">
+        {{- if .Params.rating -}}
+        Rating: <span class="Stars" style="--rating: {{.Params.rating}};" aria-label="Rating of this product is {{ .Params.rating }} out of 5."></span>
+        {{- end -}}
+      </p>
       {{- end -}}
-    </p>
-    <time class="text-xs antialiased opacity-60 ml-auto">
-      {{- .Date | time.Format ":date_medium" -}}
-    </time>
-  </div>
+      <time class="text-xs antialiased opacity-60 ml-auto">
+        {{- .Date | time.Format ":date_medium" -}}
+      </time>
+    </div>
   <a class="absolute inset-0 text-[0px]" href="{{- .Permalink -}}"
     >{{- .Title -}}</a
   >

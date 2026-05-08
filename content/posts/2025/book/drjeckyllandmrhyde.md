@@ -2,7 +2,7 @@
 date = '2025-12-29'
 draft = false
 title = '"Dr Jekyll and Mr Hyde [+ Others]" by Robert Louis Stevenson'
-tags = ["Book"]
+tags = ["Book", "Review"]
 
 +++
 As I’m sure it is with most, I bought this book for the titular story. There’s a lot of interesting discussion to be had over “The Strange Case of Dr. Jeckel and Mr. Hyde,” the facet that most interests me being that the twist is so solidly stapled into pop-culture that it would be strange for someone not to know it. The original novella plays it as a mystery; I felt a strong focus on “who is this Mr. Hyde sullying the good Dr. Jeckel’s reputation through association” rather than them being the same individual being played for dramatic irony. It’s a late reveal, with Jeckel’s final confession being obtained shortly after he (as Hyde) kills himself to escape the consequences of his actions.

@@ -1,7 +1,9 @@
 baseURL = 'http://elijahtate.info'
 languageCode = 'en-us'
-title = "Elijah Tate's Blog"
+title = "blog"
 theme = "paper"
+copyright = "©2026, Elijah Tate"
+color = "gray"
 
 [params]
 monoDarkIcon = true
