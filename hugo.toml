@@ -28,10 +28,10 @@ copyright = "©2026 probablyquill"
   [[menu.main]]
     identifier = "2026"
     name = "2026"
-    url = "/posts/2026"
+    url = "/post/2026"
     weight = 9
   [[menu.main]]
     identifier = "2025"
     name = "2025"
-    url = "/posts/2025"
+    url = "/post/2025"
     weight = 10

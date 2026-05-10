@@ -15,11 +15,14 @@
       <span>{{- $single_author -}}</span>
       {{- end -}}
       {{- if .Params.rating -}}
-      <p class="text-lg mt-0">Rating: <span class="Stars" style="--rating: {{.Params.rating}};" aria-label="Rating of this product is {{ .Params.rating }} out of 5."></span></p>
+      <p class="text-lg mt-0">Rating: <span class="Stars" style="--rating: {{.Params.rating}};" aria-label="Rating of this product is {{ .Params.rating }} out of 5."></span></p>\
       {{- end -}}
       {{- if .Date -}}
       <time class="text-lg">{{- .Date | time.Format ":date_medium" -}}</time>
-      {{- end -}}<!---->
+      {{- end -}}
+      {{- if .Params.showreadingtime -}}
+      <p class="text-lg mt-0">{{ .ReadingTime }} minute read</p>
+      {{- end -}}
     </div>
     {{- end -}}
   </header>
@@ -28,7 +31,7 @@
 
   {{- if .IsHome -}}
   <div style="display: grid; justify-content: center;">
-    <p style="text-align: left; margin-bottom: 0;">Newest Posts:</p>
+    <p style="text-align: left; margin-bottom: 0;">newest posts:</p>
     <ul style="margin-top: 0;">
     {{ range first 5 (sort site.RegularPages "Date" "desc") }}
       <li><a href="{{ .RelPermalink }}">

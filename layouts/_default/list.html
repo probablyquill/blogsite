@@ -10,7 +10,7 @@
 <!-- $pages -->
 {{- $pages := .RegularPagesRecursive -}}<!---->
 {{- if .IsHome -}}<!---->
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections -}}<!---->
+{{- $pages = where site.RegularPagesRecursive "Type" "in" site.Params.mainSections -}}<!---->
 {{- end -}}
 
 <!-- Articles -->

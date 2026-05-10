@@ -1,8 +1,7 @@
 +++
 date = '2026-05-05'
-draft = true
+draft = false
 title = '"The Picture of Dorian Gray" by Oscar Wilde'
-author = "Elijah Tate"
 tags = ["Book", "Review"]
 rating = 3
 +++
