@@ -1,5 +1,7 @@
 All code written by me for this project is provided under the MIT license. 
 
+Code provided by the paper-hugo theme is available under their MIT license.
+
 MIT License
 
 © 2026 probablyquill

@@ -15,7 +15,7 @@
       <span>{{- $single_author -}}</span>
       {{- end -}}
       {{- if .Params.rating -}}
-      <p class="text-lg mt-0">Rating: <span class="Stars" style="--rating: {{.Params.rating}};" aria-label="Rating of this product is {{ .Params.rating }} out of 5."></span></p>\
+      <p class="text-lg mt-0">Rating: <span class="Stars" style="--rating: {{.Params.rating}};" aria-label="Rating: {{ .Params.rating }} out of 5."></span></p>
       {{- end -}}
       {{- if .Date -}}
       <time class="text-lg">{{- .Date | time.Format ":date_medium" -}}</time>

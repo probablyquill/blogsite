@@ -3,7 +3,7 @@ date = '2025-08-02'
 draft = false
 title = '"Circe" by Madeline Miller'
 tags = ["Book", "Review"]
-rating = 3
+rating = 4
 +++
 It's been a while since I read anything derived from Greek mythology—my last experience being the Percy Jackson series a decade ago—so I went in with no expectations and a hazy-at-best memory of what events would occur. I used to be very into mythology and had read a lot of various Greek and Roman myths, but I've forgotten large amounts of it over the years. Things slowly came back to me as I read "Circe", and I think that rekindled knowledge made me enjoy Miller's retelling even more than I would have otherwise. 
 
