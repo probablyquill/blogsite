@@ -2,9 +2,6 @@
 # Ensure that we are in the correct directory.
 cd /home/elijah/Documents/GitHub/blogsite/
 
-# Remove existing public files (not strictly necessary).
-rm -R public
-
 # The “hugo” command will render the website out into the public directory.
 hugo
 
