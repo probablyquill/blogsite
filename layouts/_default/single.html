@@ -5,7 +5,6 @@
 <article>
   <header class="mb-14">
     <h1 class="my-0! pb-2.5">{{- .Title -}}</h1>
-
     {{- if ne .Type "page" -}}
     <div class="text-xs antialiased opacity-60">
       {{- $single_author := or .Params.author site.Params.author -}}
@@ -26,7 +25,14 @@
     </div>
     {{- end -}}
   </header>
-
+  
+  {{- if .Params.showtoc -}}
+  <details id="table-of-contents">
+    <summary>Table of Contents</summary>
+    {{ .TableOfContents }}
+  </details>
+  {{- end -}}
+  
   <section>{{- .Content -}}</section>
 
   {{- if .IsHome -}}

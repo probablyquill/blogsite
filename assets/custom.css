@@ -21,5 +21,13 @@
     -webkit-text-fill-color: transparent;
     }
 }
+#table-of-contents {
+    position: sticky;
+    top: 5px;
+}
+
+#table-of-contents nav > ul > li {
+    list-style-type: none;
+}
 
 @reference './app.css';

@@ -6,4 +6,4 @@ cd /home/elijah/Documents/GitHub/blogsite/
 hugo
 
 # Copy the contents of the public folder to the Cloud Storage Bucket
-gcloud storage rsync public gs://blog.probablyquill.com/ --cache-control max-age=0 --recursive --content-language en
+gcloud storage rsync public gs://blog.probablyquill.com/ --cache-control max-age=0 --recursive --content-language en --gzip-local

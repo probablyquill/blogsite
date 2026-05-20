@@ -4,6 +4,7 @@ layout = "single"
 date = '2026-05-09'
 draft = false
 showreadingtime = true
+showtoc = false
 tags = ["Article"]
 +++
 ## The Why
