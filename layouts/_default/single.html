@@ -4,7 +4,15 @@
 
 <article>
   <header class="mb-14">
+    {{- if .IsHome -}}
+    <div style="display: grid; justify-content: center; text-align: center; padding-top: 3em">
+      <h1 class="my-0! pb-2.5 ml-auto">{{- .Title -}}</h1>
+      <p><a href="/post">all posts</a></p>
+    </div>
+    {{- else -}}
     <h1 class="my-0! pb-2.5">{{- .Title -}}</h1>
+    {{- end -}}
+    
     {{- if ne .Type "page" -}}
     <div class="text-xs antialiased opacity-60">
       {{- $single_author := or .Params.author site.Params.author -}}

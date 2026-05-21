@@ -1,10 +1,5 @@
 +++
 draft = false
 layout = "single"
+title = "the inkwell"
 +++
-<div style="display: grid; justify-content: center; text-align: center;">
-
-<h1>the inkwell</h1>
-
-[all posts](/post)  
-</div>
