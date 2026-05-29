@@ -21,13 +21,45 @@
     -webkit-text-fill-color: transparent;
     }
 }
+
+/* Somewhat unfortunate that I need to hard code these for now, but I'm not super familiar with the var system being used. Will need to clean up later. */
 #table-of-contents {
     position: sticky;
-    top: 5px;
+    top: 0px;
+    margin-bottom: 10em;
+    padding-top: .5em !important;
+}
+
+#table-of-contents > summary{
+    background-color: rgb(250, 248, 241);
+}
+
+html.dark #table-of-contents {
+    background-color: rgb(38, 37, 36, 0.95);
+}
+
+html.dark #table-of-contents > summary {
+    background-color: rgb(38, 37, 36)
+}
+
+#table-of-contents nav{
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+#table-of-contents[open] nav{
+  opacity: 1;
+}
+
+#TableOfContents > ul {
+    margin-top: 0 !important;
 }
 
 #table-of-contents nav > ul > li {
     list-style-type: none;
 }
 
+html {
+    scroll-padding-top: 3rem;
+}
 @reference './app.css';
