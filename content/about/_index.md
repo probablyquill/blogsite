@@ -2,7 +2,7 @@
 layout = "single"
 title = "About"
 +++
-I'm Elijah, also known as Quill or probablyquill, a graduate of the University of North Carolina at Charlotte with a Bachelors of Science in Computer Science. I've always found technology and literature incredibly interesting, and this website is a small project to enable my passion for both. 
+I'm Elijah, also known as Quill or probablyquill, a graduate of the University of North Carolina at Charlotte with a Bachelors of Science in Computer Science. I've always enjoyed technology and fiction, and this website is a small project to enable my passion for both. 
 
 ## About this website:
 This website was built using <a href="https://gohugo.io/" target="_blank">hugo</a> on top of the <a href="https://github.com/nanxiaobei/hugo-paper" target="_blank">hugo-paper</a> theme. The source code for the website can be found <a href="https://github.com/probablyquill/blogsite" target="_blank">here</a>. 

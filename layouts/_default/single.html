@@ -37,7 +37,9 @@
   {{- if .Params.showtoc -}}
   <details id="table-of-contents">
     <summary>Table of Contents</summary>
-    {{ .TableOfContents }}
+    <div style="padding-bottom: 0.2em;">
+      {{ .TableOfContents }}
+    </div>
   </details>
   {{- end -}}
   

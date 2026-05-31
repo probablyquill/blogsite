@@ -1,6 +1,6 @@
 baseURL = 'http://blog.probablyquill.com'
 languageCode = 'en-us'
-title = "blog"
+title = "the inkwell"
 theme = "paper"
 copyright = "©2026 probablyquill"
 
@@ -17,6 +17,8 @@ copyright = "©2026 probablyquill"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    endLevel = 6
 
 [menu]
 
