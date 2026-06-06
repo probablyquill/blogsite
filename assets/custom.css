@@ -62,4 +62,13 @@ html.dark #table-of-contents > summary {
 html {
     scroll-padding-top: 3rem;
 }
+
+/* 
+I do not want the blockquote to be quoted by default. Enforcing it here because I do not want to modify 
+the template's main.css file. 
+*/
+blockquote {
+    quotes: none !important;
+}
+
 @reference './app.css';
